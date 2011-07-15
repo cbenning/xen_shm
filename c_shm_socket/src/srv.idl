@@ -1,0 +1,3 @@
+interface srv {
+	double add(in double i, in double j);
+};
