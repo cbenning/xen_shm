@@ -1,3 +1,4 @@
+A C socket library which can send data between virtual machines via an un-managed shared memory block as opposed to the hypervisor
 
 I haven't touched this in a long while, but thought someone else might find it interesting.
 
